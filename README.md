@@ -59,7 +59,7 @@ Setelah data mahasiswa dimasukkan, sistem akan menampilkan hasil prediksi terkai
 # Cara Menjalankan Aplikasi
 streamlit run app.py
 ```
-[Link prototype Streamlit]()
+[Link prototype Streamlit](https://solving-educational-institution-problems-faqhmlna.streamlit.app/)
 
 ## Conclusion
 Dari proyek ini ditemukan bahwa:
